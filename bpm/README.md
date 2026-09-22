@@ -1,2 +1,1 @@
-# BPM Diagrams
-مدل‌های BPMN فرایند خرید
+# BPM Diagram
