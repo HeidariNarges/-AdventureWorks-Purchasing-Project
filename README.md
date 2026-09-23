@@ -42,5 +42,6 @@ Adding "Low-frequency?" Gateway + two paths:
 ## Team Contribution
 | Name | Role | Contributions |
 |------|------|----------------|
-| Sara ValiPoor | BPM, SQL & Process Improvement | BPMN As-Is/To-Be, Analytical Queries, Views, SP, RFM,  Storytelling |
 | Narges Heidari | Power BI & Dashboard | 4-page Dashboard, DAX Measures, Dashboard Screenshots, Performance Optimization |
+| Sara ValiPoor | BPM, SQL & Process Improvement | BPMN As-Is/To-Be, Analytical Queries, Views, SP, RFM,  Storytelling |
+
